@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.agents/
+.claude/
+skills-lock.json
+output/
+test-results/
+.DS_Store
